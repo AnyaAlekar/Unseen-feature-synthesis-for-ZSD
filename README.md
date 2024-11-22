@@ -17,12 +17,12 @@ We aim to utilize zero-shot detection, a machine learning approach, to develop a
 
 ![image](https://github.com/user-attachments/assets/a77d86a0-cfa8-4afa-8ad6-f16e992470f2)
 
-## Applications
-Zero-shot detection is particularly useful for identifying rare or novel object categories. For example, in this project, we use it to detect mythical creatures like unicorns and phoenixes.
-
 ## Example
 In a zero-shot detection system trained on animals like cats and dogs
 If the system is introduced to a new class like lion, it can detect and classify lions by understanding its semantic similarity to known animals (e.g., lions are closer to cats in the semantic embedding space).
+
+## Applications
+Zero-shot detection is particularly useful for identifying rare or novel object categories. For example, in this project, we use it to detect mythical creatures like unicorns and phoenixes.
 
 ## Kaggle Notebook
 [Notebook](https://www.kaggle.com/code/tiyagupta/cs435-project-final)
